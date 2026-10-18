@@ -8,15 +8,15 @@
     progress:{ left: 70.95, width: 11.0, en: 'My Progress', vi: 'Hồ sơ tiến bộ', icon: '📊' },
   };
   const PAGE_META = {
-    home: { src: 'home.webp', alt: 'Trang chủ MathLingua AI Grade 5', className: 'home-board' },
-    topics: { src: 'topics.webp', alt: 'Thư viện chủ đề với các hành tinh Fraction, Decimal Numbers, Ratio and Percentage, Geometry and Measurement', className: 'topics-board' },
-    mathlab: { src: 'math-lab.webp', alt: 'Math Lab với các trò chơi Toán học tương tác', className: 'mathlab-board' },
-    buddy: { src: 'mathbuddy-ai.webp', alt: 'Math Vocabulary và Speak and Pronounce', className: 'buddy-board' },
-    progress: { src: 'my-progress.webp', alt: 'Hồ sơ tiến bộ MathLingua AI', className: 'progress-board' },
-    chapter1: { src: 'chapter-1-fraction.webp', alt: 'Chủ đề Fraction, gồm Mixed Numbers và Decimal Fractions', className: 'chapter-board' },
-    chapter2: { src: 'chapter-2-decimals.webp', alt: 'Chủ đề Decimal Numbers với bảy bài học', className: 'chapter-board' },
-    chapter3: { src: 'chapter-3-ratio.webp', alt: 'Chủ đề Ratio and Percentage', className: 'chapter-board' },
-    chapter4: { src: 'chapter-4-geometry.webp', alt: 'Chủ đề Geometry and Measurement', className: 'chapter-board' },
+    home: { src: 'home.svg', alt: 'Trang chủ MathLingua AI Grade 5', className: 'home-board' },
+    topics: { src: 'topics.svg', alt: 'Thư viện chủ đề với các hành tinh Fraction, Decimal Numbers, Ratio and Percentage, Geometry and Measurement', className: 'topics-board' },
+    mathlab: { src: 'math-lab.svg', alt: 'Math Lab với các trò chơi Toán học tương tác', className: 'mathlab-board' },
+    buddy: { src: 'mathbuddy-ai.svg', alt: 'Math Vocabulary và Speak and Pronounce', className: 'buddy-board' },
+    progress: { src: 'my-progress.svg', alt: 'Hồ sơ tiến bộ MathLingua AI', className: 'progress-board' },
+    chapter1: { src: 'chapter-1-fraction.svg', alt: 'Chủ đề Fraction, gồm Mixed Numbers và Decimal Fractions', className: 'chapter-board' },
+    chapter2: { src: 'chapter-2-decimals.svg', alt: 'Chủ đề Decimal Numbers với bảy bài học', className: 'chapter-board' },
+    chapter3: { src: 'chapter-3-ratio.svg', alt: 'Chủ đề Ratio and Percentage', className: 'chapter-board' },
+    chapter4: { src: 'chapter-4-geometry.svg', alt: 'Chủ đề Geometry and Measurement', className: 'chapter-board' },
   };
   const routeState = {
     home: 'home', topics: 'topics', mathlab: 'mathlab', buddy: 'buddy', progress: 'progress',
